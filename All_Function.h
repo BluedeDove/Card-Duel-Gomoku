@@ -1,0 +1,11 @@
+#pragma once
+#include"timer.cpp"
+#include"vector2.cpp"
+#include"setting.cpp"
+#include"camera.cpp"
+#include"scene.cpp"
+#include"texture.cpp"
+#include"data.h"
+#include"atlas.cpp"
+#include"game_elements.h"
+#include"B_showing_list.h"
